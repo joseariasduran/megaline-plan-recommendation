@@ -1,0 +1,8 @@
+### 2. Archivo `requirements.txt`
+Este archivo permite a otros instalar las librerías necesarias con un solo comando. Crea un archivo llamado `requirements.txt` y pega esto:
+
+```text
+pandas>=1.3.0
+scikit-learn>=1.0.0
+jupyterlab
+matplotlib
