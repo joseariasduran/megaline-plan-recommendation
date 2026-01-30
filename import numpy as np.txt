@@ -1,0 +1,11 @@
+import numpy as np
+
+# 1. Definir los datos como arrays de Numpy
+y_real = np.array([649, 253, 370, 148])
+y_pred = np.array([623, 253, 150, 237])
+
+# 2. Aplicar la fórmula manual vectorizada
+# (Resta -> Eleva al cuadrado -> Promedio)
+emc = np.mean((y_real - y_pred)**2)
+
+print(f"El EMC con NumPy es: {emc}")
