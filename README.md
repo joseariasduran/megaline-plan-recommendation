@@ -40,4 +40,4 @@ El modelo seleccionado fue el **Bosque Aleatorio (Random Forest)** con la siguie
 ## Cómo ejecutar este proyecto
 1. Clona el repositorio:
    ```bash
-   git clone [https://github.com/joseariasduran/megaline-plan-recommendation.git](https://github.com/joseariasduran/megaline-plan-recommendation.git)
+   git clone [https://github.com/joseariasduran/megaline-plan-recommendation.git]
